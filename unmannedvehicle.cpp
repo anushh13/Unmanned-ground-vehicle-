@@ -62,7 +62,4 @@ void loop() {
       digitalWrite(motor2Pin2, LOW);
     }
   }
-
-  // Read gyroscope data and adjust motor speed/direction as needed
-  // ... (implement gyroscope reading and motor control logic)
 }
