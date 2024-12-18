@@ -1,13 +1,14 @@
 # Unmanned-ground-vehicle-
 # Unmanned Ground Vehicle   
-## Objective: The primary objective of this project is to design and implement an Unmanned Ground Vehicle (UGV) capable of autonomous balancing and remote control. The UGV will utilize a smartphone gyroscope for balance sensing and Bluetooth for wireless communication. The Arduino Uno microcontroller will process the sensor data and control the motor driver to achieve precise movement and steering.
+## Objective: 
+The primary objective of this project is to design and implement an Unmanned Ground Vehicle (UGV) capable of autonomous balancing and remote control. The UGV will utilize a smartphone gyroscope for balance sensing and Bluetooth for wireless communication. The Arduino Uno microcontroller will process the sensor data and control the motor driver to achieve precise movement and steering.
 ## Introduction : 
-### This project aims to develop an Unmanned Ground Vehicle (UGV) capable of autonomous navigation and remote control. By utilizing a smartphone gyroscope for balance control and Bluetooth for wireless communication, the UGV can maneuver through various terrains. The Arduino Uno microcontroller processes the gyroscope data and controls the motor driver, enabling precise movement and steering.
+This project aims to develop an Unmanned Ground Vehicle (UGV) capable of autonomous navigation and remote control. By utilizing a smartphone gyroscope for balance control and Bluetooth for wireless communication, the UGV can maneuver through various terrains. The Arduino Uno microcontroller processes the gyroscope data and controls the motor driver, enabling precise movement and steering.
 
 ## Problem Statement : 
-### Traditional remote-controlled vehicles often require significant manual input for steering and balance. This project aims to address this limitation by developing an Unmanned Ground Vehicle (UGV) capable of autonomous balancing, allowing for more precise and efficient navigation.
+Traditional remote-controlled vehicles often require significant manual input for steering and balance. This project aims to address this limitation by developing an Unmanned Ground Vehicle (UGV) capable of autonomous balancing, allowing for more precise and efficient navigation.
 
-### Components Used :
+## Components Used :
 Hardware Components 
 
 -- Armcon Side
